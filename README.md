@@ -28,7 +28,7 @@ This repository contains:
 
 ### Option 1: Latest Working Version
 Use the shared Colab link (always up-to-date):
-**[Open in Colab]** _(https://colab.research.google.com/drive/1mqcCrypaK3u_kvs7nSqX4XTvBgq4-shK?usp=sharing)_
+**[Open in Colab]** [Google Colab](https://colab.research.google.com/drive/1mqcCrypaK3u_kvs7nSqX4XTvBgq4-shK?usp=sharing)_
 
 
 ### Option 2: Stable Version (will be added later)
