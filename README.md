@@ -2,6 +2,13 @@
 
 **Create your own video interview dataset for testing transparent AI systems**
 
+## 🚀 Quick Start
+
+### Option 1: Latest Working Version
+Use the shared Colab link (always up-to-date):
+[Google Colab](https://colab.research.google.com/drive/1mqcCrypaK3u_kvs7nSqX4XTvBgq4-shK?usp=sharing)
+
+
 ## 🎯 Purpose
 
 This tool helps you create realistic mock video interview datasets that can be used to test and understand how AI systems analyze video interviews in university admissions or job applications. It's part of the FAIR-VID research project on transparent, human-centered AI in organizational processes.
@@ -23,12 +30,6 @@ This repository contains:
 2. **Question Bank** - Pre-loaded interview questions from various study programs
 3. **Easy Export** - Save your recordings to Google Drive in standard MP4 format
 4. **No Installation Required** - Runs entirely in Google Colab (free)
-
-## 🚀 Quick Start
-
-### Option 1: Latest Working Version
-Use the shared Colab link (always up-to-date):
-[Google Colab](https://colab.research.google.com/drive/1mqcCrypaK3u_kvs7nSqX4XTvBgq4-shK?usp=sharing)
 
 
 ### Option 2: Stable Version (will be added later)
