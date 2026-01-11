@@ -26,14 +26,16 @@ This repository contains:
 
 ## 🚀 Quick Start
 
-### Option 1: Stable Version (Recommended)
+### Option 1: Latest Working Version
+Use the shared Colab link (always up-to-date):
+**[Open in Colab]** _(https://colab.research.google.com/drive/1mqcCrypaK3u_kvs7nSqX4XTvBgq4-shK?usp=sharing)_
+
+
+### Option 2: Stable Version (will be added later)
 1. Download the notebook from this repository: `RecordVideo.ipynb`
 2. Upload it to [Google Colab](https://colab.research.google.com/)
 3. Follow the 4 steps inside the notebook
 
-### Option 2: Latest Working Version
-Use the shared Colab link (always up-to-date):
-**[Open in Colab]** _(link will be added here)_
 
 ## 📋 How It Works
 
@@ -74,10 +76,6 @@ The notebook has 4 simple steps:
 - Understand AI systems better
 - Help build transparent AI
 
-**Do NOT:**
-- Submit AI-generated videos as your own work
-- Use deepfakes or impersonation
-- Violate academic integrity policies
 
 ## 🎓 For Students
 
@@ -102,17 +100,6 @@ This tool supports:
 
 ## 🛠️ Technical Details
 
-**Requirements:**
-- Modern web browser (Chrome, Firefox recommended)
-- Webcam and microphone
-- Google account (for Colab and Drive)
-- No programming knowledge needed
-
-**Video Specifications:**
-- Format: WebM (recorded) → MP4 (saved)
-- Resolution: 480x360 (optimized for upload speed)
-- Bitrate: 250kbps (efficient quality)
-- Audio: Included
 
 **Data Source:**
 Interview questions are loaded from:
@@ -120,35 +107,9 @@ Interview questions are loaded from:
 https://github.com/fair-vid/fair-vid-synthetic-data/
 ```
 
-## 📖 Related Resources
 
-- **FAIR-VID Framework Paper**: [Link to paper]
-- **Project Website**: [Link to project site]
-- **Documentation**: See the `docs/` folder
-- **Example Videos**: [Link to examples if available]
 
-## 🤝 Contributing
 
-We welcome contributions! If you:
-- Find bugs or issues
-- Want to add new question sets
-- Have suggestions for improvements
-- Created useful datasets
-
-Please open an issue or pull request.
-
-## ⚖️ License
-
-This tool is released under [LICENSE TYPE] for research and educational purposes.
-
-The interview questions dataset is maintained separately and may have different licensing terms.
-
-## 📧 Contact
-
-For questions about:
-- **The tool**: Open an issue on GitHub
-- **The research**: [Contact email]
-- **Collaboration**: [Contact email]
 
 ## 🙏 Acknowledgments
 
