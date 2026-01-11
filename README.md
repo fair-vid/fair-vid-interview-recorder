@@ -33,8 +33,7 @@ Use the shared Colab link (always up-to-date):
 
 ### Option 2: Stable Version (will be added later)
 1. Download the notebook from this repository: `RecordVideo.ipynb`
-2. Upload it to [Google Colab](https://colab.research.google.com/)
-3. Follow the 4 steps inside the notebook
+2. Follow the 4 steps inside the notebook
 
 
 ## 📋 How It Works
